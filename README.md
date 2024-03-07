@@ -1,5 +1,4 @@
-# Flutter-Task-Manager
-
+# learn-flutter-todo-list
 
 
 This is a daily task manager application project created in flutter. Install this application from [Google Play Store](https://play.google.com/store/apps/details?id=bornomala.todo) or Get it from [GitHub Release](https://github.com/aratheunseen/flutter-task-manager/releases/download/android/todo-android.apk).
@@ -57,4 +56,4 @@ Follow this -
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# learn-flutter-todo-list
+
